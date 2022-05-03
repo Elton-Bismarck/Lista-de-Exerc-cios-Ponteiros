@@ -1,0 +1,3 @@
+A primeira expressão está correta, ela aponta para o endereço do segundo elemento do array mat;
+A segunda e a terceira expressão estão erradas, arrays são lvalues não modificáveis, a incrementação não existe para array, só podendo ser feita elemento a elemento, e não com o array;
+a quarta expressão está correta, ela primeiro aponta para o endereço onde está o elemento para depois incrementar o endereço que ele referencia.
